@@ -1,0 +1,29 @@
+version: "3.9"
+
+services:
+  chatbot:
+    # Build the image from the Dockerfile in the current directory
+    build: .
+
+    # Name the running container
+    container_name: unilights-chatbot
+
+    # Map port 8501 on your machine → port 8501 inside the container
+    # Format: "host_port:container_port"
+    ports:
+      - "8501:8501"
+
+    # Load environment variables from your .env file
+    # This is how ANTHROPIC_API_KEY gets into the container securely —
+    # it never gets baked into the image itself.
+    env_file:
+      - .env
+
+    # Mount the data folder as a volume.
+    # This means changes to Excel files on your machine are instantly
+    # visible inside the container — no rebuild needed.
+    volumes:
+      - ./data:/app/data
+
+    # Always restart the container if it crashes
+    restart: unless-stopped

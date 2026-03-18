@@ -1,0 +1,39 @@
+.
+.1
+.2
+@
+CLIENT NAME
+CRM
+Customer Name
+DATE
+DELIVERY LOCATION
+DESCRIPTION
+Dispacth Plan Date
+Dispatch Revised Date
+EXECUTIVE /ROHIT
+Electronic Store
+FG REMARKS
+HBRR150
+IMAGE
+MODEL NAME
+Mech Store
+Mech. Production Dep.
+ORDER DATE
+Option 1
+Order Date & PO
+PRODUCT
+PROJECT
+PROJECT.1
+Packing & Burning monu
+Problems
+QTY
+Qty.
+RAW MATERIAL STATUS
+REFERENCE IMAGE
+REMARK
+REMARK 2
+REMARK 3
+REMARKS
+SMD Dep. Kiran Sir
+SPECIFICATION
+TH Dep. Madhavi Madam

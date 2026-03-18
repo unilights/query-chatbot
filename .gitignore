@@ -1,0 +1,19 @@
+# Environment
+.env
+venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Script debug output
+scripts/output/
+
+# Streamlit
+.streamlit/
+
+# OS
+.DS_Store
+Thumbs.db

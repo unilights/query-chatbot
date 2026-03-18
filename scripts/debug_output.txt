@@ -1,0 +1,15 @@
+--- PENDING SHEET 2 - Hold Orders ---
+       HBRR150 Qty.       Mech Store
+0          NaN  NaN              NaN
+1          NaN  NaN              NaN
+2          NaN  NaN             DIFF
+3  TTLB24W 35K    7  RAW MATERIAL OK
+4  GLWR18W 35K   76  RAW MATERIAL OK
+
+--- Customization Orders - Sheet1 ---
+                                                                                                                                                                                                                                                                   MODEL NAME    QTY
+0                                                                                                                                                                                                                                                                         NaN    NaN
+1                                                                                                                                                                                                                                                                         NaN    NaN
+2  Table Lamp- Silver\nProduct Code : TL88DLG\nDimension : As per attached img.\nShade Fabric : Silver\nFinish : Silver PU Coating\nHolder and Plug Type : E - 14\nWarranty : 02 Years\nMaterial : Base and Fitting is M.S Steel material, Matte\nSilver Color finished metal  9 nos
+3                                                                                                                                                                                                                                                                         NaN    NaN
+4                                                                                                                                                                                                                                                                 32 ND FLOOR    NaN

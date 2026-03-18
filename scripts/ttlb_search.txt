@@ -1,0 +1,6 @@
+=== PENDING SHEET 2 - Hold Orders ===
+            Unnamed: 0 Customer Name Order Date & PO     Model no. Qty.                                                 FG REMARKS       Mech Store Electronic Store SMD Dep. Kiran Sir TH Dep. Madhavi Madam Mech. Production Dep. Packing & Burning monu Dispacth Plan Date Dispatch Revised Date                       Problems Unnamed: 15 Unnamed: 16 Unnamed: 17 Unnamed: 18
+3  2021-11-12 00:00:00    J.R.ELCTRO          P.O.212  TTLB24W 35K    7  Color Temp: 3500K \n Beam Angle : 56°\nBody Color: Black   RAW MATERIAL OK              NaN                NaN                   NaN                   NaN                    NaN                NaN                   NaN  COB Will be Receive \n4.12.21         NaN         NaN         NaN         NaN
+
+=== Customization Orders - Sheet1 ===
+Not found
